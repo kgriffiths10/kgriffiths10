@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello, I'm Katya! 👋
 
-<!--
-**kgriffiths10/kgriffiths10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a computer science student passionate about technology, coding, and learning new things. Currently pursuing my degree in Computer Science at [Your University]. I love to explore various areas within computer science, including software development, machine learning, and cybersecurity.
 
-Here are some ideas to get you started:
+Currently seeking internships & entry-level roles in Software Engineering | Passionate about Frontend & Full Stack Development, Product Design, and UI/UX 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Programming Languages: Python, C/C++, c#, JavaScript, Typescript
+
+Web Development: HTML, CSS, React.js, Node.js
+
+Database Management: SQL, MongoDB, PSQL
+
+Tools & Technologies: Git, Docker, Netlify, Figma, Illustrator, Adobe XD
+
+## Education
+👩‍💻Currently studying a BSc. in Computer Science at Bishop's University.
+Also completing a Bsc. in Neuroscience at Bishop's Unviersity
+
+## Let's Connect
+Feel free to reach out to collaborate on projects or just to say hi! 😊
+
+Linkedin: https://www.linkedin.com/in/katya-griffiths-julien-629357257/
