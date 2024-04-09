@@ -19,6 +19,6 @@ Tools & Technologies: Git, Docker, Netlify, Figma, Illustrator, Adobe XD
 Also completing a Bsc. in Neuroscience at Bishop's Unviersity
 
 ## Let's Connect
-Feel free to reach out to collaborate on projects or just to say hi! 😊
+Feel free to reach out! 😊
 
 Linkedin: https://www.linkedin.com/in/katya-griffiths-julien-629357257/
