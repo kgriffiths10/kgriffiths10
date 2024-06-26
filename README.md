@@ -1,7 +1,7 @@
 # Hello, I'm Katya! 👋
 
 ## About Me
-I'm a computer science student passionate about technology, coding, and learning new things. Currently pursuing my degree in Computer Science at [Your University]. I love to explore various areas within computer science, including software development, machine learning, and cybersecurity.
+I'm a computer science student passionate about technology, coding, and learning new things. Currently pursuing my degree in Computer Science at Bishop's Unviersity. I love to explore various areas within computer science, including software development, machine learning, and cybersecurity.
 
 Currently seeking internships & entry-level roles in Software Engineering | Passionate about Frontend & Full Stack Development, Product Design, and UI/UX 🚀
 
