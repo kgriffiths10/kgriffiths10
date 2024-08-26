@@ -16,6 +16,7 @@ Tools & Technologies: Git, Docker, Netlify, Figma, Illustrator, Adobe XD
 
 ## Education
 👩‍💻BSc. in Computer Science at Bishop's University
+
 👩‍💻Bsc. in Neuroscience at Bishop's Unviersity
 
 ## Professional Certifications
