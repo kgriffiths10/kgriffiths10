@@ -20,10 +20,15 @@ Tools & Technologies: Git, Docker, Netlify, Figma, Illustrator, Adobe XD
 
 ## Professional Certifications
 Meta - Database Engineer Professional Certificate
+
 Meta - Frontend Developer Professional Certificate
+
 Meta - Backend Developer Professional Certificate
+
 Google - UX Design Professional Certificate
+
 IBM - Fullstack Software Developer Professional Certificate
+
 
 
 ## Let's Connect
