@@ -1,7 +1,7 @@
 # Hello, I'm Katya! 👋
 
 ## About Me
-I'm a computer science student passionate about technology, coding, and learning new things. Currently pursuing my degree in Computer Science at Bishop's Unviersity. I love to explore various areas within computer science, including software development, machine learning, and cybersecurity.
+I'm a computer science graduate passionate about technology, coding, and learning new things having pursued a degree in Computer Science at Bishop's Unviersity. I love to explore various areas within computer science, with a focus on fullstack engeineering.
 
 Currently seeking internships & entry-level roles in Software Engineering | Passionate about Frontend & Full Stack Development, Product Design, and UI/UX 🚀
 
@@ -15,8 +15,16 @@ Database Management: SQL, MongoDB, PSQL
 Tools & Technologies: Git, Docker, Netlify, Figma, Illustrator, Adobe XD
 
 ## Education
-👩‍💻Currently studying a BSc. in Computer Science at Bishop's University.
-Also completing a Bsc. in Neuroscience at Bishop's Unviersity
+👩‍💻BSc. in Computer Science at Bishop's University
+👩‍💻Bsc. in Neuroscience at Bishop's Unviersity
+
+## Professional Certifications
+Meta - Database Engineer Professional Certificate
+Meta - Frontend Developer Professional Certificate
+Meta - Backend Developer Professional Certificate
+Google - UX Design Professional Certificate
+IBM - Fullstack Software Developer Professional Certificate
+
 
 ## Let's Connect
 Feel free to reach out! 😊
