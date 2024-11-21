@@ -28,7 +28,6 @@ Meta - Backend Developer Professional Certificate
 
 Google - UX Design Professional Certificate
 
-IBM - Fullstack Software Developer Professional Certificate
 
 
 
