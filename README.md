@@ -8,7 +8,7 @@ Currently seeking internships & entry-level roles in Software Engineering | Pass
 ## Skills
 Programming Languages: Python, C/C++, c#, JavaScript, Typescript
 
-Web Development: HTML, CSS, React.js, Node.js
+Web/MObile Development: HTML, CSS, React.js, Node.js, React Native
 
 Database Management: SQL, MongoDB, PSQL
 
